@@ -7,4 +7,4 @@ The completeness of Djula meets the usability of Eco.
 | commit  | 256a013                                 |
 | systems | ten                                     |
 |---------+-----------------------------------------|
- 
+  
